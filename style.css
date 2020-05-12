@@ -2,3 +2,9 @@
 img {
     width: 50%
   }
+div {
+  color: teal;
+  background-color: cornsilk;
+  height: 300px;
+  width: 300px;
+}
